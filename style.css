@@ -1,0 +1,150 @@
+
+
+body {
+    max-width: 500px;
+    
+
+   
+
+}
+
+header {
+    background-color: black;
+    text-align: center;
+}
+
+.article-1 {
+    text-align: center;
+    background-image: url(assets/banner.jpg);
+    padding: 90px;
+   
+}
+
+.article-1 h1 {
+    font-size: 2em;
+    font-family: 'montserrat';
+    font-weight: bold;
+    color: #25a2c3 ;
+    line-height: 1.5;
+}
+
+.first-p {
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    font-family: 'open sans' sans-serif;
+    line-height: 1.65;
+    color: #393d41 ;
+   
+}
+
+button {
+    width: 150px;
+    height: 35px;
+  background-color:#f04c2f;
+ border: none;
+ color: white;
+ font-weight: bold;
+ 
+}
+
+.description-div {
+    text-align: center;
+    padding: 25px;
+}
+
+.description-div h3 {
+    font-size: 1.2em;
+    font-family: 'montserrat';
+    font-weight: bold;
+    color: #25a2c3;
+
+}
+
+.description-div p {
+    font-size: 1.2rem;
+    font-family: 'open sans' sans-serif;
+    line-height: 1.65;
+    color: #393d41
+
+}
+
+#notebook-img {
+    border-radius: 50%;
+}
+
+#red-box {
+    text-align: center;
+    background-color: #e22d0e;
+    color: white;
+    padding: 100px;
+}
+
+#red-box h2 {
+    font-size: 1.5em;
+    font-family: 'montserrat';
+    font-weight: bold;
+
+
+}
+
+#red-box p {
+    font-family: 'open sans' sans-serif;
+    line-height: 1.65;
+    margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#red-box h3 {
+    font-family: 'open sans' sans-serif;
+    line-height: 1.65;
+    font-size: 1.2em;
+
+}
+
+#red-box h4 {
+    font-family: 'open sans' sans-serif;
+    line-height: 1.65;
+    font-size: 0.8em;
+
+}
+
+.images-div {
+    text-align: center;
+    border: solid 1px #dee1e3;
+    margin-top: 20px;
+    
+}
+
+.square-images {
+    max-width: 90%;
+  
+   
+   
+  
+}
+
+.images-div h3 {
+    font-size: 1.2em;
+    font-family: 'montserrat';
+    font-weight: bold;
+    color: #25a2c3;
+    margin-top: 20px;
+}
+
+.images-div p {
+    
+    font-size: 1.2rem;
+    font-family: 'open sans' sans-serif;
+    line-height: 1.65;
+    color: #393d41
+  
+    
+}
+
+
+
+
+
+
