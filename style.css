@@ -3,14 +3,15 @@
 body {
     max-width: 500px;
     
-
-   
-
 }
+
+
+
 
 header {
     background-color: black;
     text-align: center;
+    
 }
 
 .article-1 {
@@ -142,6 +143,56 @@ button {
   
     
 }
+
+
+
+#footer-div {
+    background-color: #25a2c3;
+    padding: 80px;
+    text-align: center;
+    margin-top: 30px;
+  
+}
+
+.email-ancor {
+    display: block;
+}
+
+#footer-div h2 {
+    color: white;
+    font-size: 1.5em;
+    font-family: 'montserrat';
+    font-weight: bold;
+
+}
+
+#footer-div .email-ancor {
+    color: #c8e7f0;
+    font-size: 0.8em;
+    font-family: 'montserrat';
+    font-weight: bold;
+}
+
+#footer-div h4 {
+    color: #c8e7f0;
+    font-size: 0.8em;
+    font-family: 'montserrat';
+    font-weight: bold;
+}
+
+#footer-div h5 {
+    color: #c8e7f0;
+    font-size: 0.8em;
+    font-family: 'montserrat';
+    font-weight: bold;
+    
+}
+
+.copy-div {
+    margin-top: 20px;
+}
+
+
 
 
 
