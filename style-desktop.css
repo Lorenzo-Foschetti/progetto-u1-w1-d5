@@ -1,0 +1,11 @@
+header {
+    background-color: black;
+}
+
+.first-div {
+    text-align: center;
+    padding: 70px;
+    background-image: url(assets/banner.jpg);
+    background-position: center;
+    background-size: cover;
+}
