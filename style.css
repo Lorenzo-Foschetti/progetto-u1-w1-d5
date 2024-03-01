@@ -23,6 +23,8 @@ header {
     text-align: center;
     background-image: url(assets/banner.jpg);
     padding: 90px;
+   background-position: center;
+   background-size: cover;
    
 }
 
@@ -191,6 +193,10 @@ button {
     font-family: 'montserrat';
     font-weight: bold;
     
+}
+
+.h2-footer {
+    margin-top: 20px;
 }
 
 hr {
