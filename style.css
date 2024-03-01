@@ -5,6 +5,11 @@ body {
     
 }
 
+#image-logo {
+    width: 30%;
+    padding: 6%;
+}
+
 
 
 
@@ -186,6 +191,10 @@ button {
     font-family: 'montserrat';
     font-weight: bold;
     
+}
+
+hr {
+    color:#c8e7f0 ;
 }
 
 .copy-div {
